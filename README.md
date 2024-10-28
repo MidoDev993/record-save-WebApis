@@ -5,7 +5,7 @@ Captures the APIs of a web page and saves its content
 `pip install -r requirements.txt` or `pipenv install -r requirements.txt`
 
 ## How use it
-Use the command `mitmproxy -s main.py`. This will start **mitmproxy** and use the **main.py** script.
+Use the command `mitmproxy -s main.py` (remember to be in the directory where you have the scripts). This will start **mitmproxy** and use the **main.py** script.
 
 1. Enter the URL
 2. Enter the time it will be capturing
